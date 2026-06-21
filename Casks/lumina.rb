@@ -7,7 +7,7 @@ cask "lumina" do
   desc "Another wallpaper engine"
   homepage "https://github.com/Yahddyyp/Lumina"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Lumina.app"
 end
