@@ -1,5 +1,5 @@
 cask "lumina" do
-  version "1.0.0-beta.1"
+  version "1.0.0"
   sha256 "..."
 
   url "https://github.com/Yahddyyp/Lumina/releases/download/v#{version}/Lumina.app.zip"
