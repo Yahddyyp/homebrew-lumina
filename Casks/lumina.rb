@@ -1,6 +1,6 @@
 cask "lumina" do
   version "1.0.0"
-  sha256 "01b099bfab9e7e03289bed8d1d28edfb53840a243c04941fbe2fe3a56acd9328"
+  sha256 "74c3784395f7b6201497a2a5cc161430b93c3f96b41717c071c5833a59a6d1ac"
 
   url "https://github.com/Yahddyyp/Lumina/releases/download/v#{version}/Lumina.app.zip"
   name "Lumina"
